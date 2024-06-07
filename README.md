@@ -26,4 +26,4 @@ The dungeeon is made of three exploration levels, with battles, chests, shops, s
 A game ends when the fourth level, which consists of a shop, a resting area and a final boss, is completed.
 
 This prototype doesn't reflect the end product, thee visual is not final and there is no sound effects yet.
-But most of the gameplay functionalities are there, it is onlt missing new elements, such as cards, enemies or events, to add some variance between games.
+But most of the gameplay functionalities are there, it is only missing new elements, such as cards, enemies or events, to add some variety between games.
